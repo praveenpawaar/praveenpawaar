@@ -34,5 +34,4 @@ If you have any feedback, please reach out to us at praveenamgoth06@gmail.com
 
 
 ## 🔗 Links
-[![portfolio](file:///C:/Users/prave/AppData/Local/Microsoft/Windows/INetCache/IE/YS9X9EEX/Praveen_pawar_resume[1].pdf)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-amgoth-a37685274/)
